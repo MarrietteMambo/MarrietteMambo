@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/MarrietteMambo/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[DISA STIG Remediation](https://github.com/MarrietteMambo/DISA-STIG-implementation)
 
 ## 🚨 Threat Hunting and Security Operations
 
