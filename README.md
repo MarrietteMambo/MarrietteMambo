@@ -9,6 +9,7 @@ Tenable Nessus • Microsoft Sentinel • Microsoft Defender for Endpoint • Po
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/MarrietteMambo/Vulnerability-Management-Program)**
+- 
 - **[DISA STIG Remediation](https://github.com/MarrietteMambo/DISA-STIG-implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
