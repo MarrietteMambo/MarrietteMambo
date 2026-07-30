@@ -2,6 +2,9 @@
 
 Cybersecurity professional with hands-on experience in vulnerability management, Windows security hardening, threat hunting, and incident analysis. Skilled in Tenable, Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, PowerShell, DISA STIGs, NIST guidance, and MITRE ATT&CK. Projects include end-to-end vulnerability remediation, compliance hardening, and enterprise threat investigations.
 
+## 💻 Skills
+
+Tenable Nessus • Microsoft Sentinel • Microsoft Defender for Endpoint • PowerShell • KQL • Azure • Windows Security • Linux • DISA STIGs • NIST RMF • MITRE ATT&CK • Vulnerability Management • Threat Hunting
 
 ## ⚠️ Vulnerability Management Projects
 
