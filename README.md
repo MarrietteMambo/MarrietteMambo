@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/marriette-mambo/">Marriette Mambo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity professional with hands-on experience in vulnerability management, Windows security hardening, threat hunting, and incident analysis. Skilled in Tenable, Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, PowerShell, DISA STIGs, NIST guidance, and MITRE ATT&CK. Projects include end-to-end vulnerability remediation, compliance hardening, and enterprise threat investigations.
 
 
 ## ⚠️ Vulnerability Management Projects
