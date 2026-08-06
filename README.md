@@ -14,6 +14,7 @@ Tenable Nessus • Microsoft Sentinel • Microsoft Defender for Endpoint • Po
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MarrietteMambo/Threat_Hunt_Event_-TOR-Usage-.md/blob/main/README.md)**
+- **[Incidence Response: Operation-Silent-Corridor)](https://github.com/MarrietteMambo/OPERATION-SILENT-CORRIDOR#operation-silent-corridor)**
 
 <hr/>
 
